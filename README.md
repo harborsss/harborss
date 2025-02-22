@@ -1,16 +1,17 @@
 # ⚓ The Goober Zone ⚓
 
-Occasionally I get a wild hair and start a project or two. 
+Occasionally I get a wild hair and start a project or two 
 
 ## Learning 
 
 - ☕ Java
 - 📜 JavaScript
+- 🤖 Kotlin
 
 ## Project Tasklist 
 
 - 🦆 DuckChat Windows port
-- 🌙 The Android notes app of my dreams
+- 🌙 Dinky notes app for Android 
 
 <!---
 harborsss/harborss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
